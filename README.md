@@ -44,8 +44,9 @@ If a file is larger than this, it must be split into different stego-images. The
 Robustness of the program should prove acceptable, as QR codes are designed by nature to be readable even when stretched, contorted, and compressed, and is also the primary benefit of this steganographic method over others.
 
 ## Credits
-Preston Mumphrey, Carlos Osuna, Luke Alvarado
+Preston Mumphrey, Carlos Osuna, Luke Alvarado, Aradhnna Reddy
 
 Priya, K., et al. “DWT based QR Steganography.” Journal of Physics: Conference Series, vol. 1917, no. 1, 1 June 2021, p. 012020, https://doi.org/10.1088/1742-6596/1917/1/012020.
+
 
 
