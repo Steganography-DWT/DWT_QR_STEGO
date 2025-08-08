@@ -5,8 +5,6 @@ DWT_QR_STEGO is a steganographic program that hides text as a qr image into a ch
 ## Installation
 
 Upon running the executable for the first time, the necessary python packages will be installed, and upon every subsequent execute the dependencies will be checked.
-```bash
-```
 
 ## Usage
 
@@ -49,4 +47,5 @@ Robustness of the program should prove acceptable, as QR codes are designed by n
 Preston Mumphrey, Carlos Osuna, Luke Alvarado
 
 Priya, K., et al. “DWT based QR Steganography.” Journal of Physics: Conference Series, vol. 1917, no. 1, 1 June 2021, p. 012020, https://doi.org/10.1088/1742-6596/1917/1/012020.
+
 
